@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url("https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/92953085_1794885290653643_3183858114063499264_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=YFnNza2_H6AAX-RTxPM&_nc_ht=scontent-ssn1-1.xx&oh=f97319cf16164a354565bb11cf2df99e&oe=608CABD6");;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/166941042_2132411466901022_5700862258380308867_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=AELRCNHzZNQAX_Alts4&_nc_ht=scontent-ssn1-1.xx&oh=c166304622a21f9a5f714bedd8eefe0b&oe=608C03DD");
     background-size: cover;
     background-position: center;
 }

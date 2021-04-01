@@ -27,6 +27,7 @@
     list-style: none;
     display: inline-block;
     margin: 0 20px;
+    margin-top: 10px;
     position: relative;
 }
 .navbar ul li a{
@@ -92,7 +93,7 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
-    transition: 0,4s;
+    transition: 0.5s;
 }
 button:hover span{
     width: 100%;
@@ -104,7 +105,14 @@ button:hover{
     text-decoration: none;
     color: black;
 }
-#grid{
-    display: grid;
-    grid-auto-rows: auto;
+.article{
+    width: 80%;
+    margin: auto;
+    margin-top: 70px;
+    border: 2px solid white;
+    text-align: left;
+    padding-left: 100px;
+    color: black;
+    background-color: white;
+    font-family: sans-serif;
 }

@@ -29,6 +29,7 @@
     margin: 0 20px;
     margin-top: 10px;
     position: relative;
+    font-size: 34px;
 }
 .navbar ul li a{
     text-decoration: none;
@@ -53,6 +54,7 @@
     transform: translate(10%, -65%);
     color: #fff;
     position: absolute;
+    font-size: 25px;
 }
 .main a{
     text-decoration: none;
@@ -65,6 +67,7 @@
     transform: translateY(-170%);
     text-align: center;
     color: #fff;
+    font-size: 30px;
 }
 .content p{
     margin: 5px auto;

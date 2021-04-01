@@ -54,7 +54,7 @@
     transform: translate(10%, -65%);
     color: #fff;
     position: absolute;
-    font-size: 25px;
+    font-size: 20px;
 }
 .main a{
     text-decoration: none;
@@ -67,7 +67,7 @@
     transform: translateY(-170%);
     text-align: center;
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
 }
 .content p{
     margin: 5px auto;
@@ -108,6 +108,7 @@ button:hover{
 .content button a{
     text-decoration: none;
     color: black;
+    font-size: 20px;
 }
 .article{
     width: 80%;

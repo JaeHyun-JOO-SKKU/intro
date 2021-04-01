@@ -83,6 +83,7 @@ button{
     cursor: pointer;
     position: relative;
     overflow: hidden;
+    background-color: white;
 }
 span{
     background: #009688;
@@ -103,7 +104,7 @@ button:hover{
 }
 .content button a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .article{
     width: 80%;
